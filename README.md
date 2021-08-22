@@ -3,12 +3,12 @@
 
 这个网站是一个前后端分离项目，遵循 RESTful 风格。
 
-** 后端技术栈： **
+**后端技术栈：**
 - SpringBoot
 - MyBatis
 - MySql
 
-** 前端技术栈： **
+**前端技术栈：**
 - Vue
 - ElementUI
 - axios
